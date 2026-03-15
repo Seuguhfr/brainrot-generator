@@ -43,8 +43,8 @@ Created by [egebese](https://x.com/egebese).
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/egebese/tiktok-brainrot-generator.git # Or your fork
-    cd tiktok-brainrot-generator
+    git clone https://github.com/egebese/brainrot-generator.git # Or your fork
+    cd brainrot-generator
     ```
 
 2.  **Create and Activate a Python Virtual Environment:**
